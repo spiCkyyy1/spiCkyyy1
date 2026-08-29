@@ -2,7 +2,7 @@
 
 Senior Full-Stack Engineer — 8+ years building production PHP/Laravel systems, with Vue/React
 on the frontend and Linux underneath. Currently building electronic data capture systems for
-clinical trials at the University of Birmingham's Clinical Trials Unit (BCTU).
+clinical trials at the Birmingham's Clinical Trials Unit (BCTU).
 
 ## What I've been building
 
@@ -17,9 +17,8 @@ and data encryption, built to meet clinical data security and regulatory require
 
 ## Background
 
-- 8+ years across TechPeak, Finja, The Entertainer, 10Pearls, and Double Click Design, before
-  moving into clinical trials software at the University of Birmingham
-- Optimised backend processes for a platform serving 150K+ users
+- 8+ years across different industries, before moving into clinical trials software
+- Optimised backend processes for a platform serving 250K+ users
 - Established TDD practices (PHPUnit/Pest) and lead code review and mentoring for junior
   developers
 - MSc Computer Science, University of Huddersfield (Distinction)
