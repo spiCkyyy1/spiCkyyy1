@@ -1,4 +1,4 @@
-# Hassam Waheed
+# Hassam Waheed CITP MBCS
 
 Senior Full-Stack Engineer — 8+ years building production PHP/Laravel systems, with Vue/React
 on the frontend and Linux underneath. Currently building electronic data capture systems for
